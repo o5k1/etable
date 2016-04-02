@@ -48,5 +48,5 @@ Sarà cura di eTable stimare, per ogni prodotto nella lista della spesa, la quan
 ## Interfaccia web
 HTML e CSS sono relativi ad un template messo a disposizione in forma gratuita sul web, al quale son state apportate modifiche basilari per soddisfare le esigenze del progetto.
 
-## L'idea
+## Ambito
 L'idea nasce come pretesto per portare a termine il progetto richiesto dall'insegnamento *Basi di dati* proposto all'interno del CdL in Informatica dell'*Università degli studi di Padova*. Gli sviluppi di base sono comunque ampliabili e possono avere spazio di evoluzione, spero quindi di avere tempo e modo di portare avanti questo progetto.
